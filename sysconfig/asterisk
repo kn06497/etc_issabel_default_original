@@ -1,0 +1,3 @@
+# User and group to run asterisk
+AST_USER=asterisk
+AST_GROUP=asterisk
